@@ -58,8 +58,8 @@ class SingleMapTableViewController: UITableViewController, CLLocationManagerDele
         self.title = sItem["parkingName"]!
         sMealDay.textLabel?.text = "유무료 여부"
         sMealDay.detailTextLabel?.text = sItem["chargeInfo"]! /*+ "  " + sItem["basicTime"]! + "분 당 " + sItem["basicCharge"]! + "원"*/
-        sTarget.textLabel?.text = "운영시간"
-        sTarget.detailTextLabel?.text = sItem["satStartTime"]! + " ~ " + sItem["satEndTime"]!
+        sTarget.textLabel?.text = "주차장의 종류"
+        sTarget.detailTextLabel?.text = sItem["parkingCategory"]! // + " ~ " + sItem["satEndTime"]!
         sManageNm.textLabel?.text = "운영기간"
         sManageNm.detailTextLabel?.text = sItem["runDate"]
         sPhone.textLabel?.text = "전화번호"
