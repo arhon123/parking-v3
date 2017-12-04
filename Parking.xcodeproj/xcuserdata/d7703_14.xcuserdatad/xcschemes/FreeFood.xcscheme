@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "051444FF1FAAAF9A00B20DF5"
-               BuildableName = "FreeFood.app"
-               BlueprintName = "FreeFood"
-               ReferencedContainer = "container:FreeFood.xcodeproj">
+               BuildableName = "Parking.app"
+               BlueprintName = "Parking"
+               ReferencedContainer = "container:Parking.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "051444FF1FAAAF9A00B20DF5"
-            BuildableName = "FreeFood.app"
-            BlueprintName = "FreeFood"
-            ReferencedContainer = "container:FreeFood.xcodeproj">
+            BuildableName = "Parking.app"
+            BlueprintName = "Parking"
+            ReferencedContainer = "container:Parking.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "051444FF1FAAAF9A00B20DF5"
-            BuildableName = "FreeFood.app"
-            BlueprintName = "FreeFood"
-            ReferencedContainer = "container:FreeFood.xcodeproj">
+            BuildableName = "Parking.app"
+            BlueprintName = "Parking"
+            ReferencedContainer = "container:Parking.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "051444FF1FAAAF9A00B20DF5"
-            BuildableName = "FreeFood.app"
-            BlueprintName = "FreeFood"
-            ReferencedContainer = "container:FreeFood.xcodeproj">
+            BuildableName = "Parking.app"
+            BlueprintName = "Parking"
+            ReferencedContainer = "container:Parking.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
